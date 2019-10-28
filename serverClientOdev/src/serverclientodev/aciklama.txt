@@ -1,0 +1,3 @@
+Ödevi birlikte yapacak arkadaş bulamadım o yüzden localhost yaptım.
+Ödevi tek yaptım.
+Ödev, sunucu ile client arasında chat yapmasını sağlıyor.
